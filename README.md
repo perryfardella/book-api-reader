@@ -9,7 +9,7 @@ These details are then displayed in a table and calculations are done to calcula
     -Using React Hooks to control state
     -Async promise to return API data
     -MaterialUI for styling
-    -Proxy used for routing
+    -Proxy used for routing to avoid header issues
 
 ## Notes
 
