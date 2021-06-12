@@ -1,6 +1,6 @@
 import React from "react";
 
-import { calculateTax, calculateDiscount } from "./Calculations";
+import { calculateTax, calculateDiscount } from "../Calculations";
 
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";

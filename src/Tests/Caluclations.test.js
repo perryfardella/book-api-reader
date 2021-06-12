@@ -1,4 +1,4 @@
-import { calculateTax, calculateDiscount } from "./Calculations";
+import { calculateTax, calculateDiscount } from "../Calculations";
 
 it("Should check to make sure the calculateTax method is calculating correctly.", () => {
   expect(calculateTax(15)).toEqual(1.5);

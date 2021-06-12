@@ -1,6 +1,6 @@
 import { render, screen, act } from "@testing-library/react";
 import React from "react";
-import BooksFetcher from "./BooksFetcher";
+import BooksFetcher from "../Components/BooksFetcher";
 import userEvent from "@testing-library/user-event";
 
 beforeAll(() => jest.spyOn(window, "fetch"));
